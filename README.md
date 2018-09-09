@@ -1,7 +1,7 @@
 # [python-hindi-](https://anshaadi.github.io/python-hindi-/)
 join this revolutionary repository....make python work with हिंदी वातावरण 
 
-##Welcome to the python-hindi- wiki!
+Welcome to the python-hindi- wiki!
 
 चलिए करते है python हिंदी में ।
 जैसा कि हम जानते है पाइथान एक high level programing language है, यानी वो ज़्यादा सरल है हमारे याने इंसानो के लिए परंतु उतनी ही कठिन है कम्प्यूटर के लिए ।
