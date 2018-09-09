@@ -1,4 +1,4 @@
-# python-hindi-
+# [python-hindi-](https://anshaadi.github.io/python-hindi-/)
 join this revolutionary repository....make python work with हिंदी वातावरण /,.;;
 
 Welcome to the python-hindi- wiki!
